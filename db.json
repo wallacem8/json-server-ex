@@ -17,7 +17,7 @@
   ],
   "experiencias": [
     {
-      "id": 3,
+      "id": 1,
       "titulo": " Análise e desenvolvimento de sistemas. ",
       "descricao": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quae. Earum nostrum dolorem, amet id veritatis mollitia",
       "tipo": "academica",
@@ -25,7 +25,7 @@
       "anoFim": "2023"
     },
     {
-      "id": 3,
+      "id": 2,
       "titulo": "Operador Comerial - Lojas Americanas",
       "descricao": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quae. Earum nostrum dolorem, amet id veritatis mollitia",
       "type": "profissional",
@@ -35,13 +35,13 @@
   ],
   "portfolio": [
     {
-      "id" : 9,
+      "id" : 1,
       "link": "https://wallacem8.github.io/projeto1/",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiLs92NFGtrobYlccGHEeb-u5y-b3_HR4bXg&usqp=CAU",
       "title": "Arena Gringa "
     },
     {
-      "id" : 10,
+      "id" : 2,
       "link": "https://wallacem8.github.io/projeto-netflix/",
       "image": "https://pbs.twimg.com/profile_images/847849985525919745/tSKGQUjz_400x400.jpg",
       "title": "FUTFLIX"
