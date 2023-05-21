@@ -28,7 +28,7 @@
       "id": 2,
       "titulo": "Operador Comerial - Lojas Americanas",
       "descricao": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quae. Earum nostrum dolorem, amet id veritatis mollitia",
-      "type": "profissional",
+      "tipo": "profissional",
       "anoInicio": "2015",
       "anoFim": "2019"
     }
